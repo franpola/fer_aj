@@ -1,0 +1,20 @@
+{
+    "p0": {
+        "texto": "En qué fecha se sancionó la constitución española?",
+        "respuestas": {
+            "r0": "28/10/1977",
+            "r1": "28/10/1888",
+            "r2": "28/10/1999",
+            "r3": "10/05/2000"
+        }
+    },
+    "p1": {
+        "texto": "Quién descubrió América?",
+        "respuestas": {
+            "r0": "Fran Perez",
+            "r1": "Cristobal Colón",
+            "r2": "Pedro Sanchez",
+            "r3": "Mariano Rajoy"
+        }
+    }
+}
